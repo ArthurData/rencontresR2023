@@ -234,7 +234,7 @@ En s'appuyant sur la maquette, <br> la discussion avec le vendeur est fluide.
 :::
 
 ::: {.fragment .fade-left}
-Surtout, Pierrot peut tester, expérimenter et réesayer <br> sans avoir peur de se tromper.
+Surtout, Pierrot peut tester, expérimenter et réessayer <br> sans avoir peur de se tromper.
 :::
 :::
 ::::
@@ -293,7 +293,7 @@ Il va concevoir une maquette pour son client.
 :::
 
 ::: {.fragment .fade-left}
-Pour Pierrot, cette étape de conception <br> n'est **pas seulement estéthique**.
+Cette étape de conception <br> n'est **pas seulement estéthique**.
 :::
 
 ::: {.fragment .fade-left}
@@ -391,7 +391,7 @@ Pierrot peut réaliser cette maquette, en réunion, <br> directement avec son cl
 :::
 
 ::: {.fragment .fade-left}
-Plus détaillé et commence visuellement à <br> ressembler au futur produit.
+Plus détaillée et commence visuellement à <br> ressembler au futur produit.
 :::
 
 ::: {.fragment .fade-left}
@@ -419,7 +419,7 @@ Pierrot pourra utiliser des outils tels que <br> Excalidraw ou encore Figma.
 :::
 
 ::: {.fragment .fade-left}
-Très détaillé, ressemble et fonctionne _presque_ <br> comme le produit final.
+Très détaillée, ressemble et fonctionne _presque_ <br> comme le produit final.
 :::
 
 ::: {.fragment .fade-left}
@@ -446,7 +446,7 @@ Pierrot pourra utiliser des outils tels que <br> Figma, Sketch, Framer ou encore
 :::
 
 ::: {.fragment .fade-left}
-<span class="relevant">Éxpérience utilisateur (UX)</span>: <br><br> Pierrot peut **présenter ces maquettes en noir et blanc**.
+<span class="relevant">Expérience utilisateur (UX)</span>: <br><br> Pierrot peut **présenter ces maquettes en noir et blanc**.
 :::
 
 ::: {.fragment .fade-left}
@@ -463,7 +463,7 @@ Pierrot pourra utiliser des outils tels que <br> Figma, Sketch, Framer ou encore
 
 ::: {.column width="75%"}
 ::: {.fragment .fade-left}
-### Ajouter de **l'intéractivité**
+### Ajouter de **l'interactivité**
 :::
 
 ::: {.fragment .fade-left}
@@ -471,14 +471,14 @@ Pierrot peut ajouter **du dynamisme** dans ses maquettes.
 :::
 
 ::: {.fragment .fade-left}
-Il peut ainsi simuler les **intéractions** <br> entre les futures pages de l'application. 
+Il peut ainsi simuler les **interactions** <br> entre les futures pages de l'application. 
 :::
 :::
 ::::
 
-## Intéractivité { background-image="assets/interactions.png" }
+## Interactivité { background-image="assets/interactions.png" }
 
-## Intéractivité { background-image="assets/interactions.gif" }
+## Interactivité { background-image="assets/interactions.gif" }
 
 ## Quelques étapes supplémentaires...
 
@@ -578,7 +578,7 @@ La maquette validée, Pierrot peut écrire <br> des **tests unitaires** pour tes
 :::
 
 ::: {.fragment .fade-left}
-Pierrot peut également tester <br> les différentes intéractions validées <br> par son client.
+Pierrot peut également tester <br> les différentes interactions validées <br> par son client.
 :::
 :::
 ::::
