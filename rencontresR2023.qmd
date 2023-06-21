@@ -1,0 +1,9 @@
+---
+title: Construiriez-vous votre cuisine sans en avoir fait des plans ?
+format: thinkridentity-revealjs
+chalkboard: false
+author: Arthur Bréant
+date: last-modified
+---
+
+Todo
