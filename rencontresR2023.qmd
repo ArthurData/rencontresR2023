@@ -7,7 +7,7 @@ format:
     slideNumber: false
 include-before-body: assets/lottie-gifs.html
 chalkboard: false
-author: Arthur Bréant
+author: Arthur Bréant x ThinkR
 date: last-modified
 ---
 
