@@ -6,4 +6,34 @@ author: Arthur Bréant
 date: last-modified
 ---
 
-Todo
+# Bonjour
+
+# Rencontrons Pierrot...
+
+## Pierrot
+
+:::: {.columns}
+::: {.column width="45%"}
+::: {.fragment .fade-right}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Son profil (Pro)
+:::
+
+::: {.fragment .fade-left}
+Développeur R  
+:::
+
+::: {.fragment .fade-left}
+Monte régulièrement des applications Shiny
+:::
+
+::: {.fragment .fade-left}
+Aime partager ses connaissances
+:::
+:::
+::::
