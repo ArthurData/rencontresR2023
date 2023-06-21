@@ -1,6 +1,9 @@
 ---
 title: Construiriez-vous votre cuisine sans en avoir fait des plans ?
-format: thinkridentity-revealjs
+format: 
+  thinkridentity-revealjs:
+    theme: custom.scss
+include-before-body: assets/lottie-gifs.html
 chalkboard: false
 author: Arthur Bréant
 date: last-modified
