@@ -26,3 +26,52 @@ lottie-player#houses {
   position: absolute;
   bottom: 0;
 }
+
+span.relevant {
+  border-bottom: 3.3px solid $orange;
+}
+
+.important-text {
+  font-family: "Yanone Kaffeesatz";
+  color: #f05522;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.sponso {
+  display: inline;
+  font-size: 11px;
+}
+
+.reveal .slide-logo {
+  top: 0;
+}
+
+.reveal .slides section .fragment {
+  opacity: 0;
+  visibility: hidden;
+  /*transition: all 3s ease !important;*/
+  transition: all 2s ease !important;
+  will-change: opacity;
+}
+
+.reveal .slides section .fragment.fade-left {
+  transform: translate(100%, 0);
+}
+
+.footer strong {
+  color: white;
+  font-weight: 600;
+}
+
+.footer {
+  color: white !important;
+}
+
+.footer a {
+  color: #f05522 !important;
+  background: white !important;
+  padding: 6px !important;
+  border-radius: 6px !important ;
+}

@@ -3,6 +3,7 @@ title: Construiriez-vous votre cuisine sans en avoir fait des plans ?
 format: 
   thinkridentity-revealjs:
     theme: custom.scss
+    slideNumber: false
 include-before-body: assets/lottie-gifs.html
 chalkboard: false
 author: Arthur Bréant
@@ -40,3 +41,652 @@ Aime partager ses connaissances
 :::
 :::
 ::::
+
+
+## Pierrot
+
+:::: {.columns}
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Son profil (Perso)
+:::
+
+::: {.fragment .fade-left}
+Très curieux 
+:::
+
+::: {.fragment .fade-left}
+Pratique du sport
+:::
+
+::: {.fragment .fade-left}
+Possède le projet de renouveller sa cuisine
+:::
+:::
+::::
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Actuellement
+:::
+
+::: {.fragment .fade-left}
+Doit faire des travaux dans sa cuisine.
+:::
+
+::: {.fragment .fade-left}
+Doit monter une application Shiny, pour son client, pour aider la création de signature(s) d'email :
+
+- Standardisation,
+
+- Homogénéité,
+
+- Facilité de maintenance.
+:::
+:::
+::::
+
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Problème (avec la cuisine)
+:::
+
+::: {.fragment .fade-left}
+Pierrot n'est pas _vraiment_ un bricoleur et il ne sait pas par où commencer les travaux :
+:::
+
+::: {.fragment .fade-left}
+- Quelles sont les mesures entre les meubles ?
+:::
+
+::: {.fragment .fade-left}
+- Quels meubles utiliser pour une cuisine esthétique ?
+:::
+
+::: {.fragment .fade-left}
+- Comment disposer la cuisine <br> pour la rendre ergonomique ?
+:::
+
+:::
+::::
+
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Problème (avec l'app Shiny)
+:::
+
+::: {.fragment .fade-left}
+Enchaine les allers-retours avec son client sur le contenu de la future application Shiny :
+:::
+
+::: {.fragment .fade-left}
+- Quid de la forme de cette application ?
+:::
+
+::: {.fragment .fade-left}
+- Quid de la forme de la signature ?
+:::
+
+::: {.fragment .fade-left}
+- Quid des variables à utiliser pour <br> remplir la signature ?
+:::
+
+:::
+::::
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Globalement les projets de Pierrot piétinent
+:::
+
+::: {.fragment .fade-left}
+Petit syndrome de la page blanche
+:::
+
+::: {.fragment .fade-left}
+Génère de la frustration
+:::
+
+::: {.fragment .fade-left}
+Ne peut pas réaliser ses plats préférés
+:::
+
+:::
+::::
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Jusqu'au jour où ...
+:::
+
+::: {.fragment .fade-left}
+Pierrot se rend dans une grande enseigne suédoise <div class="sponso">(_non sponsorisé :) _).</div>
+Il rencontre un vendeur qui lui propose de faire un plan de conception de sa cuisine.
+:::
+:::
+::::
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+::: {.fragment  .fade-left}
+### Pour Pierrot, c'est la <span class="relevant">révélation</span>
+:::
+
+::: {.fragment .fade-left}
+Cette maquette répond à toutes ses questions à propos de sa cuisine.
+:::
+
+::: {.fragment .fade-left}
+En s'appuyant sur la maquette, <br> la discussion avec le vendeur est fluide. 
+:::
+
+::: {.fragment .fade-left}
+Surtout, Pierrot peut tester, expérimenter et réesayer <br> sans avoir peur de se tromper.
+:::
+:::
+::::
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="45%"}
+::: {.fragment .fade-out}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+:::
+::: {.column width="55%"}
+:::
+::::
+
+# Et si ...
+
+::: {.important-text}
+Et si Pierrot réutilisait cette conception de maquette <br> pour son application Shiny ?
+:::
+
+## Pierrot
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### Pierrot est décidé
+:::
+
+::: {.fragment .fade-left}
+Il va concevoir une maquette pour son client.
+:::
+
+::: {.fragment .fade-left}
+<span class="relevant">**Mais que peut-il attendre de cette maquette ?**</span>
+:::
+:::
+::::
+
+## Avant de commencer
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### Pierrot est convaincu
+:::
+
+::: {.fragment .fade-left}
+Pour Pierrot, cette étape de conception <br> n'est **pas seulement estéthique**.
+:::
+
+::: {.fragment .fade-left}
+Elle doit être le support d'une **discussion commune**, <br> avec son client.
+:::
+:::
+::::
+
+## Les étapes de conception
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### Les prototypes
+:::
+
+::: {.fragment .fade-left}
+À partir du cahier des charges initial, Pierrot va itérer des **prototypes**.
+:::
+
+::: {.fragment .fade-left}
+Les prototypes sont des modèles <br> préliminaires (maquettes) d'un produit futur.
+:::
+
+::: {.fragment .fade-left}
+Pour Pierrot, l'itération portera sur la <br> **fidélité du prototype** vis-à-vis du produit final.
+:::
+:::
+::::
+
+## Les étapes de conception
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### La fidélité du prototype
+:::
+
+::: {.fragment .fade-left}
+La fidélité fait référence à **la proximité** <br> avec le **produit final**.
+:::
+
+::: {.fragment .fade-left}
+Plus le prototype est fidèle <br> au produit final, plus Pierrot devra passer <br> du temps à réaliser la maquette. 
+:::
+:::
+::::
+
+## Les étapes de conception
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### Low-Fi (Low fidelity)
+:::
+
+::: {.fragment .fade-left}
+Rapide et facile à créer.
+:::
+
+::: {.fragment .fade-left}
+Pierrot peut réaliser cette maquette, en réunion, <br> directement avec son client. 
+:::
+
+::: {.fragment .fade-left}
+**Mettre à plat tous les éléments** que doit posséder <br> la future application. 
+:::
+:::
+::::
+
+## Low-Fi (Low fidelity) { background-image="assets/low-fi.png" }
+
+## Les étapes de conception
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### Mid-Fi (Medium fidelity)
+:::
+
+::: {.fragment .fade-left}
+Plus détaillé et commence visuellement à <br> ressembler au futur produit.
+:::
+
+::: {.fragment .fade-left}
+Pierrot pourra utiliser des outils tels que <br> Excalidraw ou encore Figma.
+:::
+
+::: {.fragment .fade-left}
+**Valider la présence** et la **disposition** des <br> différents éléments dans l'interface. 
+:::
+:::
+::::
+
+## Mid-Fi (Medium fidelity) { background-image="assets/mi-fi.png" }
+
+## Les étapes de conception
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### Hi-Fi (High fidelity)
+:::
+
+::: {.fragment .fade-left}
+Très détaillé, ressemble et fonctionne _presque_ <br> comme le produit final.
+:::
+
+::: {.fragment .fade-left}
+Pierrot pourra utiliser des outils tels que <br> Figma, Sketch, Framer ou encore Adobe XD.
+:::
+
+::: {.fragment .fade-left}
+**Valider le produit final avant son développement**.
+:::
+:::
+::::
+
+## Hi-Fi (High fidelity) { background-image="assets/hi-fi.png" background-size="100% 100%"}
+
+## Quelques étapes supplémentaires...
+
+:::: {.columns}
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment  .fade-left}
+### Pour orienter les discussions
+:::
+
+::: {.fragment .fade-left}
+<span class="relevant">Éxpérience utilisateur (UX)</span>: <br><br> Pierrot peut **présenter ces maquettes en noir et blanc**.
+:::
+
+::: {.fragment .fade-left}
+<span class="relevant">Interface utilisateur (UI)</span>: <br><br> Pierrot peut créer un **Design System**.
+:::
+:::
+::::
+
+## Quelques étapes supplémentaires...
+
+:::: {.columns}
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment .fade-left}
+### Ajouter de **l'intéractivité**
+:::
+
+::: {.fragment .fade-left}
+Pierrot peut ajouter **du dynamisme** dans ses maquettes.
+:::
+
+::: {.fragment .fade-left}
+Il peut ainsi simuler les **intéractions** <br> entre les futures pages de l'application. 
+:::
+:::
+::::
+
+## Intéractivité { background-image="assets/interactions.png" }
+
+## Intéractivité { background-image="assets/interactions.gif" }
+
+## Quelques étapes supplémentaires...
+
+:::: {.columns}
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment .fade-left}
+### Collaboratif
+:::
+
+::: {.fragment .fade-left}
+Engager son client à ajouter des commentaires <br> directement sur la maquette. 
+:::
+
+::: {.fragment .fade-left}
+Facilite le travail en **asynchrone** et <br> fluidifie les discussions.
+:::
+
+::: {.fragment .fade-left}
+**Partager la maquette** à des personnes <br> représentant le public cible <br> pour obtenir des commentaires pertinents.
+:::
+:::
+::::
+
+## Quelques étapes supplémentaires...
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment .fade-left}
+### Dernière étape
+:::
+
+::: {.fragment .fade-left}
+Pour Pierrot, il est plus simple d'effectuer <br> des corrections dans la maquette que dans le code.
+:::
+
+::: {.fragment .fade-left}
+La **validation** de la maquette doit être <br> la dernière étape avant le développement.
+:::
+:::
+::::
+
+## Le développement
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment .fade-left}
+### Efficacité
+:::
+
+::: {.fragment .fade-left}
+Pierrot sait exactement ce qu'il doit développer.
+:::
+
+::: {.fragment .fade-left}
+La maquette offre la possibilité de <br> **penser son code** avant le développement.
+:::
+
+::: {.fragment .fade-left}
+Meilleure structure et organisation du projet.
+:::
+:::
+::::
+
+::: {.notes}
+Exploration créative --
+Une maquette offre une opportunité d'explorer différentes idées créatives, de tester différentes approches et de prendre des décisions éclairées avant de se lancer dans le développement. Cela favorise l'innovation et l'amélioration du produit final.
+:::
+
+
+## Penser son code { background-image="assets/modules.jpg" }
+
+## Le développement
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment .fade-left}
+### Tester son code
+:::
+
+::: {.fragment .fade-left}
+La maquette validée, Pierrot peut écrire <br> des **tests unitaires** pour tester le _front_ <br> de l'application.
+:::
+
+::: {.fragment .fade-left}
+Pierrot peut également tester <br> les différentes intéractions validées <br> par son client.
+:::
+:::
+::::
+
+## La validation
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment .fade-left}
+### Des avantages aussi pour le client
+:::
+
+::: {.fragment .fade-left}
+Pierrot démarre le développement <br> avec une vision claire et commune.
+:::
+
+::: {.fragment .fade-left}
+**Réduction des risques de retards** ou <br> de modifications majeures en cours de projet.
+:::
+
+::: {.fragment .fade-left}
+**Des validations intermédiaires** plus <br> **rapides** et plus **faciles**.
+:::
+:::
+::::
+
+
+## Le futur
+
+:::: {.columns}
+
+::: {.column width="25%"}
+:::
+
+::: {.column width="75%"}
+::: {.fragment .fade-left}
+### Outil pour l'avenir
+:::
+
+::: {.fragment .fade-left}
+Outil précieux pour les futures <br> **réflexions et itérations**.
+:::
+
+::: {.fragment .fade-left}
+**Référence visuelle** pour les <br> **futures mises à jour** et <br> modifications de l'application.
+:::
+:::
+::::
+
+## La livraison
+
+:::: {.columns}
+
+::: {.column width="45%"}
+::: {.fragment .fade-right}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+:::
+
+::: {.column width="55%"}
+::: {.fragment .fade-left}
+### {signature}
+:::
+
+
+::: {.fragment .fade-left}
+Pierrot a terminé le développement <br> de son application pour son client :
+:::
+
+::: {.fragment .fade-left .important-text}
+[connect.thinkr.fr/signature](https://connect.thinkr.fr/signature/)
+:::
+:::
+::::
+
+## <br>
+
+:::: {.columns}
+::: {.column width="45%"}
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
+:::
+
+::: {.column width="55%"}
+
+::: {.fragment .fade-left .important-text}
+## Merci
+:::
+:::
+::::
+
+
+
+::: {.notes}
+limites et inconvénients:
+Temps supplémentaire
+Coût supplémentaire
+Limitations de visualisation
+Contraintes techniques
+Évolution des besoins
+Difficulté à représenter tous les détails
+
+Simplicité excessive : Lors de la conception d'une maquette, il peut être tentant de se limiter à des fonctionnalités simples et basiques. Cependant, cela peut conduire à une sous-estimation des besoins réels du projet et à une maquette qui ne représente pas fidèlement l'application finale. Il est important de trouver un équilibre entre la simplicité et la représentation adéquate des fonctionnalités clés.
+
+Absence de limites : D'un autre côté, lors de la conception d'une maquette, il est possible de se laisser emporter par l'imagination et d'ajouter des fonctionnalités ou des éléments complexes qui peuvent être difficiles à implémenter ou qui ne correspondent pas aux ressources disponibles. Il est important de garder à l'esprit les contraintes techniques et les ressources disponibles lors de la création de la maquette, afin de rester réaliste et de s'assurer que le développement futur sera réalisable.
+:::
+
+
