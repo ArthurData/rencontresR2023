@@ -1,5 +1,6 @@
 ---
 title: Construiriez-vous votre cuisine sans en avoir fait des plans ?
+subtitle: arthurdata.github.io/rencontresR2023
 format: 
   thinkridentity-revealjs:
     theme: custom.scss
@@ -345,7 +346,7 @@ La fidélité fait référence à **la proximité** <br> avec le **produit final
 :::
 
 ::: {.fragment .fade-left}
-Plus le prototype est fidèle <br> au produit final, plus Pierrot devra passer <br> du temps à réaliser la maquette. 
+Plus le prototype est fidèle, <br> plus le travail à engager sera important. 
 :::
 :::
 ::::
@@ -643,6 +644,11 @@ Outil précieux pour les futures <br> **réflexions et itérations**.
 :::
 
 ::: {.column width="55%"}
+::: {.fragment .fade-left}
+### Une nouvelle cuisine
+<br>
+:::
+
 ::: {.fragment .fade-left}
 ### {signature}
 :::

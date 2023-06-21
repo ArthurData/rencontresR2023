@@ -1,7 +1,24 @@
 /*-- scss:defaults --*/
 $layout-breakpoint-small: 960px;
+$orange: #f05522;
 
 /*-- scss:rules --*/
+.footer {
+  color: white !important;
+
+  strong {
+    color: white;
+    font-weight: 600;
+  }
+
+  a {
+    color: $orange !important;
+    background: white !important;
+    padding: 6px !important;
+    border-radius: 6px !important ;
+  }
+}
+
 lottie-player#houses {
   width: 800px; 
   height: 400px; 
@@ -33,7 +50,7 @@ span.relevant {
 
 .important-text {
   font-family: "Yanone Kaffeesatz";
-  color: #f05522;
+  color: $orange;
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: 600;
@@ -44,34 +61,30 @@ span.relevant {
   font-size: 11px;
 }
 
-.reveal .slide-logo {
-  top: 0;
+.reveal {
+  .slide-logo {
+    top: 0;
+  }
+
+  .slides section {
+    .fragment {
+      opacity: 0;
+      visibility: hidden;
+      transition: all 2s ease !important;
+      will-change: opacity;
+    }
+
+    .fragment.fade-left {
+      transform: translate(100%, 0);
+    }
+  }
 }
 
-.reveal .slides section .fragment {
-  opacity: 0;
-  visibility: hidden;
-  /*transition: all 3s ease !important;*/
-  transition: all 2s ease !important;
-  will-change: opacity;
-}
-
-.reveal .slides section .fragment.fade-left {
-  transform: translate(100%, 0);
-}
-
-.footer strong {
-  color: white;
-  font-weight: 600;
-}
-
-.footer {
-  color: white !important;
-}
-
-.footer a {
-  color: #f05522 !important;
-  background: white !important;
-  padding: 6px !important;
-  border-radius: 6px !important ;
+#title-slide {
+  .subtitle {
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+    text-transform: initial;
+  }
 }
