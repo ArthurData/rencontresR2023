@@ -179,7 +179,7 @@ Enchaine les allers-retours avec son client sur le contenu de la future applicat
 :::
 
 ::: {.fragment .fade-left}
-Petit syndrome de la page blanche
+Petit syndrome de la page blanche / imposteur
 :::
 
 ::: {.fragment .fade-left}
@@ -189,7 +189,6 @@ Génère de la frustration
 ::: {.fragment .fade-left}
 Ne peut pas réaliser ses plats préférés
 :::
-
 :::
 ::::
 
@@ -294,7 +293,7 @@ Il va concevoir une maquette pour son client.
 :::
 
 ::: {.fragment .fade-left}
-Cette étape de conception <br> n'est **pas seulement estéthique**.
+Cette étape de conception <br> n'est **pas seulement esthétique**.
 :::
 
 ::: {.fragment .fade-left}
@@ -405,6 +404,11 @@ Pierrot pourra utiliser des outils tels que <br> Excalidraw ou encore Figma.
 :::
 ::::
 
+::: {.notes}
+On reconnait un actionButton et des textinput
+On pourrait presque s'arrêter ici mais est-ce vraiment satisfaisant si c'était pour notre cuisine ?
+:::
+
 ## Mid-Fi (Medium fidelity) { background-image="assets/mi-fi.png" }
 
 ## Les étapes de conception
@@ -472,7 +476,7 @@ Pierrot peut ajouter **du dynamisme** dans ses maquettes.
 :::
 
 ::: {.fragment .fade-left}
-Il peut ainsi simuler les **interactions** <br> entre les futures pages de l'application. 
+Simule les **interactions** <br> entre les futures pages de l'application. 
 :::
 :::
 ::::
@@ -493,7 +497,7 @@ Il peut ainsi simuler les **interactions** <br> entre les futures pages de l'app
 :::
 
 ::: {.fragment .fade-left}
-Engager son client à ajouter des commentaires <br> directement sur la maquette. 
+Engage son client à ajouter des commentaires <br> directement sur la maquette. 
 :::
 
 ::: {.fragment .fade-left}
@@ -501,7 +505,7 @@ Facilite le travail en **asynchrone** et <br> fluidifie les discussions.
 :::
 
 ::: {.fragment .fade-left}
-**Partager la maquette** à des personnes <br> représentant le public cible <br> pour obtenir des commentaires pertinents.
+**Partage la maquette** à des personnes <br> représentant le public cible.
 :::
 :::
 ::::
@@ -515,15 +519,15 @@ Facilite le travail en **asynchrone** et <br> fluidifie les discussions.
 
 ::: {.column width="75%"}
 ::: {.fragment .fade-left}
-### Dernière étape
+### Correction(s)
 :::
 
 ::: {.fragment .fade-left}
-Pour Pierrot, il est plus simple d'effectuer <br> des corrections dans la maquette que dans le code.
+Pour Pierrot, il est plus rapide d'effectuer <br> des corrections dans la maquette <br> que dans le code.
 :::
 
 ::: {.fragment .fade-left}
-La **validation** de la maquette doit être <br> la dernière étape avant le développement.
+Gain financier.
 :::
 :::
 ::::
@@ -545,7 +549,7 @@ Pierrot sait exactement ce qu'il doit développer.
 :::
 
 ::: {.fragment .fade-left}
-La maquette offre la possibilité de <br> **penser son code** avant le développement.
+"**Penser son code**" avant le développement.
 :::
 
 ::: {.fragment .fade-left}
@@ -575,11 +579,11 @@ Une maquette offre une opportunité d'explorer différentes idées créatives, d
 :::
 
 ::: {.fragment .fade-left}
-La maquette validée, Pierrot peut écrire <br> des **tests unitaires** pour tester le _front_ <br> de l'application.
+Rédaction des **tests unitaires** pour tester le _front_ <br> de l'application.
 :::
 
 ::: {.fragment .fade-left}
-Pierrot peut également tester <br> les différentes interactions validées <br> par son client.
+Tester les différentes interactions validées <br> par son client.
 :::
 :::
 ::::
