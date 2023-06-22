@@ -61,11 +61,11 @@ Très curieux
 :::
 
 ::: {.fragment .fade-left}
-Pratique du sport
+Sportif
 :::
 
 ::: {.fragment .fade-left}
-Possède le projet de renouveller sa cuisine
+A le projet de renouveller sa cuisine
 :::
 :::
 ::::
