@@ -1,5 +1,9 @@
 # Construiriez-vous votre cuisine sans en avoir fait des plans ?
 
+## La présentation
+
+La présentation est disponible: [https://www.youtube.com/watch?v=iWD_cLdmLUI&t=81s](https://www.youtube.com/watch?v=iWD_cLdmLUI&t=81s)
+
 ## Présentation pour les 9èmes rencontres R à Avignon
 
 > Passage le jeudi 22 juin à 17h / amphi N°6
